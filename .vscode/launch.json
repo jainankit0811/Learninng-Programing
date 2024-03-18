@@ -1,0 +1,115 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "string_eg_2",
+      "request": "launch",
+      "mainClass": "Java.string_eg_2",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "string_statment",
+      "request": "launch",
+      "mainClass": "Java.string_statment",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "continue_statment",
+      "request": "launch",
+      "mainClass": "Java.continue_statment",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "break_statment",
+      "request": "launch",
+      "mainClass": "Java.break_statment",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "nested_loop",
+      "request": "launch",
+      "mainClass": "Java.nested_loop",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "do_while",
+      "request": "launch",
+      "mainClass": "Java.do_while",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "Java.input",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "variable",
+      "request": "launch",
+      "mainClass": "Java.variable",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "Hello_World",
+      "request": "launch",
+      "mainClass": "Java.Hello_World",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "ForEach1",
+      "request": "launch",
+      "mainClass": "Java.ForEach1",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "forloop1",
+      "request": "launch",
+      "mainClass": "Java.forloop1",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "switch1",
+      "request": "launch",
+      "mainClass": "Java.switch1",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "type": "java",
+      "name": "Nested",
+      "request": "launch",
+      "mainClass": "Java.Nested",
+      "projectName": "Learninng Programing_5f7d6835"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
